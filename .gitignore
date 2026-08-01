@@ -1,0 +1,15 @@
+# Intermediate image-generation and viewport experiments; accepted concepts and final renders stay versionable.
+design/brand-mark-chroma.png
+design/hero-network-chroma.png
+design/render-home-1440.png
+design/render-home-1440-css.png
+design/render-home-final-full.png
+design/render-home-viewport.png
+
+# Local design, QA, and deployment-adapter sources are not part of the public Pages repository.
+design/
+sites-runtime/
+tests/
+DESIGN_SYSTEM.md
+FIDELITY_LEDGER.md
+package.json

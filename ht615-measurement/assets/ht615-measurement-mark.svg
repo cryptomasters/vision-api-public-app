@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">HT615 Measurement Hub mark</title>
+  <defs>
+    <linearGradient id="frame" x1="170" y1="160" x2="850" y2="870" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#28d7d2" />
+      <stop offset="1" stop-color="#155eef" />
+    </linearGradient>
+    <linearGradient id="bar" x1="360" y1="720" x2="680" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff" />
+      <stop offset="1" stop-color="#b9f8f5" />
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="224" fill="#071735" />
+  <path d="M512 130 826 312v400L512 894 198 712V312L512 130Z" fill="none" stroke="url(#frame)" stroke-width="64" stroke-linejoin="round" />
+  <path d="M342 680V548M512 680V392M682 680V474" fill="none" stroke="url(#bar)" stroke-width="74" stroke-linecap="round" />
+  <path d="M300 744h424" fill="none" stroke="#28d7d2" stroke-width="34" stroke-linecap="round" />
+  <circle cx="342" cy="514" r="22" fill="#28d7d2" />
+  <circle cx="512" cy="358" r="22" fill="#28d7d2" />
+  <circle cx="682" cy="440" r="22" fill="#28d7d2" />
+</svg>
